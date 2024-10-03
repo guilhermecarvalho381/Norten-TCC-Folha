@@ -1,0 +1,7 @@
+C:\Programação\Projetos C#\Norten\Norten\obj\Release\Norten.csproj.AssemblyReference.cache
+C:\Programação\Projetos C#\Norten\Norten\obj\Release\Norten.FrmCadUsuario.resources
+C:\Programação\Projetos C#\Norten\Norten\obj\Release\Norten.FrmLogin.resources
+C:\Programação\Projetos C#\Norten\Norten\obj\Release\Norten.FrmMenu.resources
+C:\Programação\Projetos C#\Norten\Norten\obj\Release\Norten.Properties.Resources.resources
+C:\Programação\Projetos C#\Norten\Norten\obj\Release\Norten.csproj.GenerateResource.cache
+C:\Programação\Projetos C#\Norten\Norten\obj\Release\Norten.csproj.CoreCompileInputs.cache
